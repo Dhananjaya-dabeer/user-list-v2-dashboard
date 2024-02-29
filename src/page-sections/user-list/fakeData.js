@@ -1,4 +1,3 @@
-import logo1 from "../../static/avatar/001-man.svg"
 
 export const userListFakeData = [{
   id: "615193a4c7e1363df77b9929",
